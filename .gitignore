@@ -1,0 +1,14 @@
+.pytest_cache/
+.__pycache__
+src/.pytest_cache/
+.__pycache__
+ .DS_Store
+ .vscode/
+ Quest Software/
+ __pycache__/
+ pictures/.DS_Store
+src/.DS_Store
+src/__pycache__/
+src/app/.DS_Store
+src/app/__pycache__/
+src/app/backend/__pycache__/
