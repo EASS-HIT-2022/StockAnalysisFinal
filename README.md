@@ -15,7 +15,7 @@ docker-compose up -d --build
 ```
 navigat to ```http://localhost:8888/docs```
 
-![Alt text](pictures/backend.png?raw=true "FastApi")
+![](pictures/backend.png?raw=true "FastApi")
 
 ## response with cloudflare stock:
 ![Alt text](pictures/search.png?raw=true "Search")
